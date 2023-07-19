@@ -17,11 +17,11 @@ In particular, we devise a joint Caption Grounding and Generation (CGG) framewor
 Moreover, we design a lightweight caption generation head to allow for additional caption supervision. We find that grounding and generation complement each other, significantly enhancing the segmentation performance for novel categories. 
 We conduct extensive experiments on the COCO dataset with two settings: Open Vocabulary Instance Segmentation (OVIS) and Open Set Panoptic Segmentation (OSPS). The results demonstrate the superiority of our CGG framework over previous OVIS methods, achieving a large improvement of 6.8% mAP on novel classes without extra caption data. Our method also achieves over 15% PQ improvements for novel classes on the OSPS benchmark under various settings.
 
-![Figure](./figs/teaser.png)
+![teaser](./figs/teaser.png)
 
 ## Demo
 
-![teaser](./figs/demo.png)
+![demo](./figs/demo.png)
 
 ## Overview
 
