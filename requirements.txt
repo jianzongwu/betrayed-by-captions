@@ -1,0 +1,12 @@
+future
+tensorboard
+scipy
+transformers
+ftfy
+regex
+tqdm
+spacy
+clip
+lvis
+nltk
+git+https://github.com/cocodataset/panopticapi.git

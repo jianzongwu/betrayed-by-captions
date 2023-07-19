@@ -1,0 +1,17 @@
+bus
+dog
+cow
+elephant
+umbrella
+tie
+skateboard
+cup
+knife
+cake
+couch
+keyboard
+sink
+scissors
+airplane
+cat
+snowboard
