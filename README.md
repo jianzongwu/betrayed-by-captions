@@ -5,7 +5,7 @@ This repository contains the official implementation of the following paper:
 > IEEE/CVF International Conference on Computer Vision (**ICCV**), 2023<br>
 
 \[[Paper](https://arxiv.org/abs/2301.00805)\]
-\[[project](https://www.mmlab-ntu.com/project/betrayed_caption/index.html)\]
+\[[Project](https://www.mmlab-ntu.com/project/betrayed_caption/index.html)\]
 
 ## :star: News
 - *2023.7.19:* Our code is publicly available.
