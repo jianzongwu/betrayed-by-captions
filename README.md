@@ -4,7 +4,8 @@ This repository contains the official implementation of the following paper:
 > Jianzong Wu<sup>\*</sup>, [Xiangtai Li](https://lxtgh.github.io/)<sup>\*</sup>, [Henghui Ding](https://henghuiding.github.io/), [Xia Li](https://xialipku.github.io/), [Guangliang Cheng](https://scholar.google.com.hk/citations?user=FToOC-wAAAAJ&hl=zh-CN), [Yunhai Tong](https://scholar.google.com.hk/citations?user=T4gqdPkAAAAJ&hl=zh-CN), [Chen Change Loy](https://www.mmlab-ntu.com/person/ccloy/)<br>
 > IEEE/CVF International Conference on Computer Vision (**ICCV**), 2023<br>
 
-[[Paper](https://arxiv.org/abs/2301.00805)]
+\[[Paper](https://arxiv.org/abs/2301.00805)\]
+\[[project](https://www.mmlab-ntu.com/project/betrayed_caption/index.html)\]
 
 ## :star: News
 - *2023.7.19:* Our code is publicly available.
