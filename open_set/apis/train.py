@@ -11,8 +11,7 @@ from mmcv.runner import (DistSamplerSeedHook, EpochBasedRunner,
 
 from mmdet.core import build_optimizer #, DistEvalHook, EvalHook
 from .eval_hooks import DistEvalHook, EvalHook
-from mmdet.datasets import (build_dataset, replace_ImageToTensor)
-from open_set.datasets import build_dataloader
+from mmdet.datasets import (build_dataset, build_dataloader, replace_ImageToTensor)
 from mmdet.utils import (build_ddp, build_dp, compat_cfg,
                          find_latest_checkpoint, get_root_logger)
 
