@@ -162,6 +162,9 @@ class CocoDatasetOpen(CustomDataset):
         self.cat2label = {cat_id: i for i, cat_id in enumerate(self.known_cat_ids)}
 
         self.img_ids = self.coco.get_img_ids()
+        
+        self.img_ids = self.img_ids[:1000]
+        
         data_infos = []
         total_ann_ids = []
         for i in self.img_ids:
